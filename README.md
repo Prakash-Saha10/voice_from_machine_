@@ -33,7 +33,8 @@ Plays a random song from your local music folder.
 Tells you a random joke using the pyjokes library.
 
 🛑 Exit Command
-You can exit the assistant by saying "exit" and confirming the prompt.
+You can exit the assistant by saying "exit" and confirming the prompt.    
+  
 
 🧰 Technologies & Libraries Used
 Python 🐍
